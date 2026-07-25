@@ -1,0 +1,10 @@
+ultralytics
+fastapi
+uvicorn
+python-multipart
+opencv-python
+pillow
+numpy
+torch
+torchvision
+pip freeze > requirements.txt
